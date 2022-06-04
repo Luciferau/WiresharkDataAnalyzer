@@ -1,7 +1,7 @@
 # WiresharkDataAnalyzer
 Using wireshark Grab a bag，then you can use this program to analysis the datas.
 
-# You can use the wireshark to grab a bag ,when you chatting with you friends on QQ;then you can use the program to analysic the datas ;
+# You can use the wireshark to grab a bag ,when you chatting with you friends on QQ;then you can use the program to analysic the wireshark‘s datas ;
 
 # In the end you even can know you friend's loaction;
 
