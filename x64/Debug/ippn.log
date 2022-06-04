@@ -1,0 +1,8 @@
+﻿  main.cpp
+F:\WorkCpp\ippn\main.cpp(15,44): warning C4474: printf: 格式字符串中传递的参数太多
+F:\WorkCpp\ippn\main.cpp(15,44): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+F:\WorkCpp\ippn\main.cpp(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\WorkCpp\ippn\main.cpp(18,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\WorkCpp\ippn\main.cpp(20,59): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\WorkCpp\ippn\main.cpp(44,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ippn.vcxproj -> F:\WorkCpp\ippn\x64\Debug\ippn.exe
